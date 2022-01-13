@@ -171,15 +171,10 @@ That is so funny! :joy: :muscle: :+1:
 > This is a quote from coroneldev
 
 <!-- Horizontal Line (Linea Horizontal) -->
-### 15. Horizontal Line
-<!-- Primer modo de linea horizontal -->
-- - - 
-<!-- Segundo modo de linea horizontal -->
-___
 
 <!-- Images -->
 
-### 16. Image
+### 15. Image
 
 <!-- This is a image of Linux Logo
 
