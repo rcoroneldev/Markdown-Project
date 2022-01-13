@@ -187,11 +187,12 @@ ___
 
 This is a image of the skills of an Data Scientist
 
-![Skills Data Scientist](../Markdown-Project/images/data-scientist-skills-2020.jpeg)
+
+![Skills Data Scientist](./images/dataScientist.jpeg)
 
 This is a image of the data science knowledge areas
 
-![Data Science Areas](../Markdown-Project/images/Data_Science_Knowledge_Areas.png)
+![Data Science Areas](./images/DSKAreas.png)
 
 
 <!-- Images Local -->
